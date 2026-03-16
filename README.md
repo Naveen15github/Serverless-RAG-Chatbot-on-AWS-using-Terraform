@@ -1,4 +1,4 @@
-# Serverless-RAG-Chatbot-on-AWS
+# Serverless-RAG-Chatbot-on-AWS-using-Terraform
 
 This project is a **serverless Retrieval-Augmented Generation (RAG) chatbot** built on AWS that allows users to ask questions about **AWS Solutions Architect certification topics** using a **small PDF document** as the knowledge source.
 
